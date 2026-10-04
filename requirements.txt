@@ -1,0 +1,12 @@
+streamlit>=1.35
+langchain>=0.3
+langchain-core>=0.3
+langchain-google-genai>=2.0
+tensorflow>=2.16
+pydantic>=2.6
+ruff>=0.5
+radon>=6.0
+pytest>=8.0
+python-dotenv>=1.0
+fastapi>=0.110      # optional: API exposure
+uvicorn>=0.29       # optional: API exposure

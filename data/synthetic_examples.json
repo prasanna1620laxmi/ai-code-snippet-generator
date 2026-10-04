@@ -1,0 +1,686 @@
+[
+ {
+  "requirement": "Build a Python utility function to format a phone number.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "I need a Python program to clean missing values in a dataset.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Create a Python FastAPI service to list hotel bookings.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Create a Python automation to archive old log files.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Develop a Python FastAPI service to list hotel bookings.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Build a Python functions to add, fetch, update and delete student records.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Write a Python script to parse a log file and count errors.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Create a Python API endpoint to fetch patient appointments.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Develop a Python class representing a Product in a retail store.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Write a Python function to remove duplicate records from a dataset.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Create a Python program to convert CSV data into JSON.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Write a Python function to sort a list using merge sort.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "I need a Python function to check whether a number is prime.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Implement a Python POST endpoint to register a student.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "I need a Python GET endpoint to retrieve insurance policy by id.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "I need a Python utility function to format a phone number.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "I need a Python function to calculate simple interest for a loan.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Write a Python CRUD functions for an employees table.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Build a Python script to generate a daily sales report.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Create a Python function to reverse a string.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Develop a Python implementation of binary search.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Write a Python function to count vowels in text.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "I need a Python functions to manage orders in a SQLite database.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Create a Python class for a Student with grade calculation.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Build a Python script to send a summary report file after processing.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Create a Python script to generate a daily sales report.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Create a Python function that validates email addresses.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Create a Python function to count vowels in text.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Build a Python class to model an Employee with salary methods.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "I need a Python script to send a summary report file after processing.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "I need a Python REST API that returns product list as JSON.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Build a Python function to find the second largest element in a list.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Implement a Python class representing a Product in a retail store.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Create a Python function to calculate simple interest for a loan.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Build a Python function to calculate factorial using recursion.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Implement a Python algorithm to find the shortest path in a graph.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Build a Python CRUD functions for an employees table.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "I need a Python batch script to process monthly payroll reports.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Implement a Python class that models a hotel Booking.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Implement a Python function to remove duplicate records from a dataset.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Build a Python REST endpoint to return customer details.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "I need a Python CRUD layer for a booking database using sqlite3.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Build a Python automation that backs up a directory to a zip file.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Build a Python GET endpoint to retrieve insurance policy by id.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "I need a Python function to group dataset rows and compute averages.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Write a Python function to group dataset rows and compute averages.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Write a Python functions to add, fetch, update and delete student records.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Create a Python script to send a summary report file after processing.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Build a Python algorithm to find the shortest path in a graph.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Implement a Python REST endpoint to return customer details.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Create a Python function to group dataset rows and compute averages.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Develop a Python class for an Insurance Policy with premium calculation.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Implement a Python class for a bank account with deposit and withdraw.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Create a Python function to merge two CSV files on a key.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Build a Python function to convert Celsius to Fahrenheit.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Write a Python function to check whether a number is prime.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Implement a Python function that validates email addresses.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Develop a Python FastAPI route to create a new order.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Write a Python GET endpoint to retrieve insurance policy by id.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Implement a Python program to convert CSV data into JSON.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Develop a Python script to parse a log file and count errors.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Develop a Python class for a bank account with deposit and withdraw.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Build a Python solution to detect a palindrome using two pointers.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Create a Python CRUD functions for an employees table.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Write a Python FastAPI route to create a new order.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Write a Python function to find the second largest element in a list.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Write a Python function to convert Celsius to Fahrenheit.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Develop a Python script to rename all files in a folder.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "I need a Python REST endpoint to return customer details.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Build a Python function that checks if a year is a leap year.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Write a Python program to clean missing values in a dataset.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Write a Python script to insert and delete patient rows in a database.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Create a Python function to find the second largest element in a list.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "I need a Python function to count vowels in text.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "I need a Python class representing a Product in a retail store.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Develop a Python function to merge two CSV files on a key.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Build a Python CRUD layer for a booking database using sqlite3.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Implement a Python automation to archive old log files.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Develop a Python API endpoint to fetch patient appointments.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Develop a Python program to convert CSV data into JSON.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Build a Python function to find the GCD of two numbers.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Write a Python database operations to insert and update product records.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Build a Python class for a shopping Cart with add and remove items.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "I need a Python database operations to insert and update product records.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Develop a Python function to calculate simple interest for a loan.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Create a Python script to insert and delete patient rows in a database.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Create a Python function to convert Celsius to Fahrenheit.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Create a Python solution to detect a palindrome using two pointers.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Create a Python class that models a hotel Booking.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Implement a Python FastAPI route to create a new order.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Write a Python function to find the GCD of two numbers.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "I need a Python POST endpoint to register a student.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Develop a Python workflow script to batch process invoices.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Implement a Python functions to add, fetch, update and delete student records.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Build a Python function to sort a list using merge sort.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Write a Python API endpoint to fetch patient appointments.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Implement a Python function to sort a list using merge sort.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Implement a Python script to filter rows of a CSV file by a column value.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Develop a Python function to reverse a string.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Implement a Python function to read a JSON file and compute totals.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Develop a Python function to read a JSON file and compute totals.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Build a Python REST API that returns product list as JSON.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Develop a Python program to clean missing values in a dataset.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Write a Python batch script to process monthly payroll reports.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Write a Python script to generate a daily sales report.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Create a Python module with create, read, update and delete for customers in SQLite.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Create a Python class for a shopping Cart with add and remove items.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "I need a Python algorithm to aggregate sales by month.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Implement a Python module with create, read, update and delete for customers in SQLite.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Create a Python implementation of binary search.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Develop a Python CRUD layer for a booking database using sqlite3.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Write a Python helper to calculate GST on an invoice.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Create a Python database operations to insert and update product records.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Implement a Python object oriented model of a Patient record.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "I need a Python class for an Insurance Policy with premium calculation.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "I need a Python module with create, read, update and delete for customers in SQLite.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "I need a Python class to model an Employee with salary methods.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Implement a Python script to rename all files in a folder.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Build a Python class for a bank account with deposit and withdraw.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "I need a Python function to read a JSON file and compute totals.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "I need a Python automation that backs up a directory to a zip file.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Implement a Python class for an Insurance Policy with premium calculation.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Build a Python FastAPI service to list hotel bookings.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Develop a Python endpoint for user login with token response.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Develop a Python function to calculate factorial using recursion.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "I need a Python object oriented model of a Patient record.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Implement a Python solution to detect a palindrome using two pointers.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Create a Python function to find the GCD of two numbers.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "I need a Python workflow script to batch process invoices.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Implement a Python endpoint for user login with token response.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Develop a Python function that checks if a year is a leap year.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Write a Python POST endpoint to register a student.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Create a Python script to organize downloads by file type.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Write a Python function to generate the Fibonacci series.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "I need a Python class that models a hotel Booking.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Build a Python algorithm to aggregate sales by month.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Build a Python function to reverse a string.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Write a Python function to merge two CSV files on a key.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Write a Python algorithm to find the shortest path in a graph.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Build a Python script to rename all files in a folder.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "I need a Python endpoint for user login with token response.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Build a Python class for a Student with grade calculation.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Develop a Python automation to archive old log files.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "I need a Python function to generate the Fibonacci series.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Create a Python function that checks if a year is a leap year.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Create a Python class to model an Employee with salary methods.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Write a Python script to filter rows of a CSV file by a column value.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Implement a Python functions to manage orders in a SQLite database.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "I need a Python script to insert and delete patient rows in a database.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "I need a Python script to filter rows of a CSV file by a column value.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "I need a Python function to calculate factorial using recursion.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Write a Python implementation of binary search.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Build a Python functions to manage orders in a SQLite database.",
+  "category": "CRUD Operations"
+ },
+ {
+  "requirement": "Develop a Python script to organize downloads by file type.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Build a Python workflow script to batch process invoices.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "I need a Python class for a Student with grade calculation.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Implement a Python REST API that returns product list as JSON.",
+  "category": "APIs"
+ },
+ {
+  "requirement": "Develop a Python batch script to process monthly payroll reports.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Develop a Python object oriented model of a Patient record.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Write a Python script to organize downloads by file type.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Develop a Python algorithm to aggregate sales by month.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "Create a Python utility function to format a phone number.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Build a Python function that validates email addresses.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Develop a Python automation that backs up a directory to a zip file.",
+  "category": "Automation"
+ },
+ {
+  "requirement": "Develop a Python class for a shopping Cart with add and remove items.",
+  "category": "Classes"
+ },
+ {
+  "requirement": "Build a Python helper to calculate GST on an invoice.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Build a Python script to parse a log file and count errors.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Create a Python function to generate the Fibonacci series.",
+  "category": "Algorithms"
+ },
+ {
+  "requirement": "I need a Python function to remove duplicate records from a dataset.",
+  "category": "Data Processing"
+ },
+ {
+  "requirement": "Implement a Python function to check whether a number is prime.",
+  "category": "Functions"
+ },
+ {
+  "requirement": "Create a Python helper to calculate GST on an invoice.",
+  "category": "Functions"
+ }
+]

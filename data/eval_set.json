@@ -1,0 +1,10 @@
+[
+ {"requirement": "Create a function to check whether a number is prime.", "function_name": "is_prime", "tests": [{"args":[2],"expected":true},{"args":[1],"expected":false},{"args":[15],"expected":false},{"args":[97],"expected":true}]},
+ {"requirement": "Create a function to calculate factorial using recursion.", "function_name": "factorial", "tests": [{"args":[0],"expected":1},{"args":[5],"expected":120},{"args":[10],"expected":3628800}]},
+ {"requirement": "Write a function that reverses a string.", "function_name": "reverse_string", "tests": [{"args":["abc"],"expected":"cba"},{"args":[""],"expected":""}]},
+ {"requirement": "Write a function to check if a string is a palindrome, ignoring case.", "function_name": "is_palindrome", "tests": [{"args":["Level"],"expected":true},{"args":["hello"],"expected":false}]},
+ {"requirement": "Create a function that returns the nth Fibonacci number.", "function_name": "fibonacci", "tests": [{"args":[0],"expected":0},{"args":[1],"expected":1},{"args":[10],"expected":55}]},
+ {"requirement": "Write a function to compute the GCD of two integers.", "function_name": "gcd", "tests": [{"args":[12,18],"expected":6},{"args":[7,13],"expected":1}]},
+ {"requirement": "Create a function to check whether a year is a leap year.", "function_name": "is_leap_year", "tests": [{"args":[2000],"expected":true},{"args":[1900],"expected":false},{"args":[2024],"expected":true}]},
+ {"requirement": "Create a function to convert Celsius to Fahrenheit.", "function_name": "celsius_to_fahrenheit", "tests": [{"args":[0],"expected":32.0},{"args":[100],"expected":212.0}]}
+]
